@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Paulo Lima! 😁
 
-- 👨🏻‍🎓 Estou estudando Full Stack
+- 👨🏻‍🎓 Estudando Desenvolvimento Full Stack
 - 🚀 Estudando as linguagens HTML5, CSS3, JavaScript 
 - 😄 Pronomes: ele/dele
-
+##
 
 <div align="center">
   <a href="https://github.com/PauloHBLima">
@@ -23,7 +23,6 @@
   <img align="center" alt="Ph-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
   
 </div>
-  
  ##
 <div>
   
