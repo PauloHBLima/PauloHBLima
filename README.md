@@ -1,4 +1,4 @@
-### Olá! Eu sou o Paulo Lima! Desenvolvedor Full Stack em formação ! 😁
+### Olá! Eu sou o Paulo Lima! Desenvolvedor Full Stack! 😁
 
 - 👨🏻‍🎓 Estudando Desenvolvimento Full Stack
 - 🚀 Linguagens HTML5, CSS3, JavaScript 
