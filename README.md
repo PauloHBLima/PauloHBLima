@@ -1,8 +1,38 @@
-### Olá! Eu sou o Paulo Lima! Desenvolvedor Full Stack! 😁
+My personal repository 😁
 
-- 👨🏻‍🎓 Estudando Desenvolvimento Full Stack
-- 🚀 Linguagens HTML5, CSS3, JavaScript 
-- 😄 Pronomes: ele/dele
+Hi 👋 my name is Paulo Lima, welcome to my profile!
+I recently graduated in Design Digital, currently I am studying full stack web development through the Digital House institution.
+
+
+
+🚀 My technical skills:
+
+Programming language:
+- JavaScript (Node.js).
+
+Other stacks:
+- Sequelize;
+- MySQL;
+- EJS (Embedded JavaScript templating);
+- HTML5;
+- CSS;
+- Bootstrap;
+- React.js;
+- MVC Pattern Design;
+- Agile methodologies (scrum);
+- Git and GitHub.
+
+My soft skills:
+
+- Communicative;
+- flexibility to the work environment and new technologies;
+- Always looking for new knowledge and challenges;
+- Committed to daily assignments and responsibilities;
+- Teamwork with assertive communication;
+- analytical vision for problem solving;
+- Troubleshooting under pressure.
+
+Thank you very much for visiting my profile and that I can contribute even more with your knowledge and growth.
 ##
 
 <div align="center">
