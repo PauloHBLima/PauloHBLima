@@ -9,7 +9,7 @@ I recently graduated in Design Digital, currently I am studying full stack web d
 
 Programming language:
 - JavaScript (Node.js).
-- TypeScript
+- TypeScript.
 
 Other stacks:
 - ORM: Sequelize, Prisma;
@@ -17,7 +17,7 @@ Other stacks:
 - EJS (Embedded JavaScript templating);
 - HTML5;
 - CSS;
-- Tailwind CSS
+- Tailwind CSS;
 - Bootstrap;
 - React.js;
 - MVC Pattern Design;
