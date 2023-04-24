@@ -15,14 +15,11 @@ Other stacks:
 - ORM: Sequelize, Prisma;
 - MySQL, PostgreSQL;
 - EJS (Embedded JavaScript templating);
-- HTML5;
-- CSS;
-- Tailwind CSS;
-- Bootstrap;
 - React.js;
 - MVC Pattern Design;
 - Agile methodologies (scrum);
 - Git and GitHub.
+- Tailwind CSS;
 
 My soft skills:
 
@@ -60,7 +57,7 @@ Thank you very much for visiting my profile and that I can contribute even more 
 ##
   
 <div>
-  
+
   <a href="https://instagram.com/paulohblima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://discord.gg/PauloLima#7341" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ph.blima30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -70,4 +67,8 @@ Thank you very much for visiting my profile and that I can contribute even more 
  ![Snake animation](https://github.com/PauloHBLima/PauloHBLima/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+  
+
+
+
   
