@@ -12,10 +12,10 @@ Programming language:
 - TypeScript.
 
 Other stacks:
-- ORM: Sequelize, Prisma;
-- MySQL, PostgreSQL;
-- EJS (Embedded JavaScript templating);
 - React.js;
+- ORM: Sequelize, Prisma;
+- MySQL;
+- EJS (Embedded JavaScript templating);
 - MVC Pattern Design;
 - Agile methodologies (scrum);
 - Git and GitHub.
