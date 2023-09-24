@@ -6,10 +6,13 @@
 - 📚 Bachelor in Graphic Design
 - 📫 How to reach me: [ph.blima30@gmail.com](mailto:ph.blima30@gmail.com)
 
-<div align="center">
-<a href="https://github.com/PauloHBLima">
+<div style="display: flex;">
+  <details open>
+    <summary><strong>GitHub Stats<strong></summary>
+<a href="https://github.com/PauloHBLima" target="_blank">
 <img height="163em" src="https://github-readme-stats.vercel.app/api?username=PauloHBLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHBLima&layout=compact&langs_count=7&theme=dark"/>
+</details>
 </div>
 
 <div style="display: inline_block"><br>
